@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kamrulhasanbd318-beep.github.io/Kamrulhasan/sitemap.xml
